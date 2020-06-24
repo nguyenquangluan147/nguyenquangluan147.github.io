@@ -1,0 +1,18 @@
+.col-4 {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.bg {
+  width: 200px;
+  height: 200px;
+}
+.product {
+  height: 346px;
+}
+.list {
+  list-style-type: none;
+}
+.col-3 {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
